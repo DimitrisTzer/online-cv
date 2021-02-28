@@ -49,7 +49,7 @@ career-profile:
     title: Career Profile
     summary: |
      My name is Dimitris Christos Tzeremes and i am undergraduate student at Ionian University. I was born at 21/6/2000 in Trikala.
-     Ι started doing programming at the age 18.
+     Ι started doing programming at the age 16.When i started programming i realized how much interesting is it and i decided then to study it
 education:
     - degree: MSc in Computer Science
       university: Ionian University
@@ -60,47 +60,24 @@ education:
     - degree: 
       university: 
       time: 
-      details: |
-          - Bullet point
-          - Bullet point
+      details: 
+ 
 experiences:
     - role:
       time: 
       company: 
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+      details:
+        
     - role: 
       time: 
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+      company: 
+      details: 
+      
     - role: 
       time: 
       company:
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+      details: 
+       
 projects:
     title: Projects
     intro: >
