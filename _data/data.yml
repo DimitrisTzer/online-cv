@@ -54,9 +54,8 @@ education:
     - degree: MSc in Computer Science
       university: Ionian University
       time: 2018 - Present
-      details: |
-          - Bullet point
-          - Bullet point
+      details: 
+       
     - degree: 
       university: 
       time: 
